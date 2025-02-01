@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/janhavitak18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/janhavitak18/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0854-making-a-large-island](https://github.com/janhavitak18/LeetCode/tree/master/0854-making-a-large-island) |
+| [1072-next-greater-node-in-linked-list](https://github.com/janhavitak18/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1612-avoid-flood-in-the-city](https://github.com/janhavitak18/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2047-find-a-peak-element-ii](https://github.com/janhavitak18/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [3429-special-array-i](https://github.com/janhavitak18/LeetCode/tree/master/3429-special-array-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/janhavitak18/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/janhavitak18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/janhavitak18/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1072-next-greater-node-in-linked-list](https://github.com/janhavitak18/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/janhavitak18/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/janhavitak18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/janhavitak18/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1072-next-greater-node-in-linked-list](https://github.com/janhavitak18/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/janhavitak18/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/janhavitak18/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/janhavitak18/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/janhavitak18/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
