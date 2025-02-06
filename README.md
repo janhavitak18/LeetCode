@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/janhavitak18/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0854-making-a-large-island](https://github.com/janhavitak18/LeetCode/tree/master/0854-making-a-large-island) |
 | [1072-next-greater-node-in-linked-list](https://github.com/janhavitak18/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1364-tuple-with-same-product](https://github.com/janhavitak18/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1612-avoid-flood-in-the-city](https://github.com/janhavitak18/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/janhavitak18/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/janhavitak18/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/janhavitak18/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/janhavitak18/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/janhavitak18/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1364-tuple-with-same-product](https://github.com/janhavitak18/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1612-avoid-flood-in-the-city](https://github.com/janhavitak18/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/janhavitak18/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Stack
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/janhavitak18/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/janhavitak18/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String Matching
 |  |
