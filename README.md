@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/janhavitak18/LeetCode/tree/master/0031-next-permutation) |
+| [0051-n-queens](https://github.com/janhavitak18/LeetCode/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/janhavitak18/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/janhavitak18/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/janhavitak18/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -252,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/janhavitak18/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/janhavitak18/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/janhavitak18/LeetCode/tree/master/3447-clear-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/janhavitak18/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
