@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/janhavitak18/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/janhavitak18/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0212-word-search-ii](https://github.com/janhavitak18/LeetCode/tree/master/0212-word-search-ii) |
+| [0347-top-k-frequent-elements](https://github.com/janhavitak18/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/janhavitak18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/janhavitak18/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0854-making-a-large-island](https://github.com/janhavitak18/LeetCode/tree/master/0854-making-a-large-island) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/janhavitak18/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/janhavitak18/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/janhavitak18/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/janhavitak18/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/janhavitak18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1364-tuple-with-same-product](https://github.com/janhavitak18/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1612-avoid-flood-in-the-city](https://github.com/janhavitak18/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/janhavitak18/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/janhavitak18/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1612-avoid-flood-in-the-city](https://github.com/janhavitak18/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2434-design-a-number-container-system](https://github.com/janhavitak18/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Dynamic Programming
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/janhavitak18/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/janhavitak18/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/janhavitak18/LeetCode/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/janhavitak18/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/janhavitak18/LeetCode/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/janhavitak18/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -236,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/janhavitak18/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1364-tuple-with-same-product](https://github.com/janhavitak18/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/janhavitak18/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String Matching
@@ -270,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/janhavitak18/LeetCode/tree/master/0212-word-search-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/janhavitak18/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/janhavitak18/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
