@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/janhavitak18/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/janhavitak18/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0854-making-a-large-island](https://github.com/janhavitak18/LeetCode/tree/master/0854-making-a-large-island) |
+| [0967-minimum-falling-path-sum](https://github.com/janhavitak18/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1072-next-greater-node-in-linked-list](https://github.com/janhavitak18/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1364-tuple-with-same-product](https://github.com/janhavitak18/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/janhavitak18/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/janhavitak18/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/janhavitak18/LeetCode/tree/master/0212-word-search-ii) |
 | [0854-making-a-large-island](https://github.com/janhavitak18/LeetCode/tree/master/0854-making-a-large-island) |
+| [0967-minimum-falling-path-sum](https://github.com/janhavitak18/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/janhavitak18/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Greedy
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/janhavitak18/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/janhavitak18/LeetCode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/janhavitak18/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0967-minimum-falling-path-sum](https://github.com/janhavitak18/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/janhavitak18/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/janhavitak18/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Linked List
