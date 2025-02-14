@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/janhavitak18/LeetCode/tree/master/0854-making-a-large-island) |
 | [1072-next-greater-node-in-linked-list](https://github.com/janhavitak18/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1364-tuple-with-same-product](https://github.com/janhavitak18/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/janhavitak18/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1612-avoid-flood-in-the-city](https://github.com/janhavitak18/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/janhavitak18/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/janhavitak18/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/janhavitak18/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/janhavitak18/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -305,10 +307,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/janhavitak18/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/janhavitak18/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/janhavitak18/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/janhavitak18/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/janhavitak18/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/janhavitak18/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/janhavitak18/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/janhavitak18/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/janhavitak18/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
