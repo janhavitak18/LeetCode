@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/janhavitak18/LeetCode/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/janhavitak18/LeetCode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/janhavitak18/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/janhavitak18/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/janhavitak18/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/janhavitak18/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/janhavitak18/LeetCode/tree/master/0055-jump-game) |
 | [1612-avoid-flood-in-the-city](https://github.com/janhavitak18/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 ## Heap (Priority Queue)
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/janhavitak18/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/janhavitak18/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/janhavitak18/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/janhavitak18/LeetCode/tree/master/0085-maximal-rectangle) |
