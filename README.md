@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/janhavitak18/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1072-next-greater-node-in-linked-list](https://github.com/janhavitak18/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1364-tuple-with-same-product](https://github.com/janhavitak18/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1380-number-of-closed-islands](https://github.com/janhavitak18/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1477-product-of-the-last-k-numbers](https://github.com/janhavitak18/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1612-avoid-flood-in-the-city](https://github.com/janhavitak18/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/janhavitak18/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/janhavitak18/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/janhavitak18/LeetCode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/janhavitak18/LeetCode/tree/master/0854-making-a-large-island) |
+| [1380-number-of-closed-islands](https://github.com/janhavitak18/LeetCode/tree/master/1380-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/janhavitak18/LeetCode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/janhavitak18/LeetCode/tree/master/0854-making-a-large-island) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/janhavitak18/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1380-number-of-closed-islands](https://github.com/janhavitak18/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/janhavitak18/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Union Find
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/janhavitak18/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/janhavitak18/LeetCode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/janhavitak18/LeetCode/tree/master/0854-making-a-large-island) |
+| [1380-number-of-closed-islands](https://github.com/janhavitak18/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/janhavitak18/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Graph
 |  |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/janhavitak18/LeetCode/tree/master/0221-maximal-square) |
 | [0854-making-a-large-island](https://github.com/janhavitak18/LeetCode/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/janhavitak18/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1380-number-of-closed-islands](https://github.com/janhavitak18/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/janhavitak18/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Greedy
 |  |
