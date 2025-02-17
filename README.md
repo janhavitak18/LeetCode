@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/janhavitak18/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/janhavitak18/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/janhavitak18/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1160-letter-tile-possibilities](https://github.com/janhavitak18/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/janhavitak18/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1612-avoid-flood-in-the-city](https://github.com/janhavitak18/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/janhavitak18/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/janhavitak18/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/janhavitak18/LeetCode/tree/master/0212-word-search-ii) |
+| [1160-letter-tile-possibilities](https://github.com/janhavitak18/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/janhavitak18/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/janhavitak18/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/janhavitak18/LeetCode/tree/master/3447-clear-digits) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/janhavitak18/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1160-letter-tile-possibilities](https://github.com/janhavitak18/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/janhavitak18/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/janhavitak18/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String Matching
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/janhavitak18/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/janhavitak18/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/janhavitak18/LeetCode/tree/master/0212-word-search-ii) |
+| [1160-letter-tile-possibilities](https://github.com/janhavitak18/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/janhavitak18/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Trie
 |  |
