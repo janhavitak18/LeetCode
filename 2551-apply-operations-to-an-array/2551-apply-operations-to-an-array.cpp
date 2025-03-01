@@ -15,10 +15,7 @@ public:
                     l++;
                 }
             }
-        // reverse(nums.begin(),nums.end());
         return nums;
     }
+    
 };
-
-
-//[1 4 0 2 0 0]
