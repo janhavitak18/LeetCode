@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/janhavitak18/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/janhavitak18/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2107-find-unique-binary-string](https://github.com/janhavitak18/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/janhavitak18/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/janhavitak18/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/janhavitak18/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/janhavitak18/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/janhavitak18/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/janhavitak18/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/janhavitak18/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2262-solving-questions-with-brainpower](https://github.com/janhavitak18/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Linked List
 |  |
 | ------- |
