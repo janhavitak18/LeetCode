@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/janhavitak18/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/janhavitak18/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/janhavitak18/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/janhavitak18/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/janhavitak18/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/janhavitak18/LeetCode/tree/master/0221-maximal-square) |
 | [0368-largest-divisible-subset](https://github.com/janhavitak18/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/janhavitak18/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/janhavitak18/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/janhavitak18/LeetCode/tree/master/0212-word-search-ii) |
 | [0800-letter-case-permutation](https://github.com/janhavitak18/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/janhavitak18/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/janhavitak18/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/janhavitak18/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/janhavitak18/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/janhavitak18/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/janhavitak18/LeetCode/tree/master/0212-word-search-ii) |
 | [0800-letter-case-permutation](https://github.com/janhavitak18/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/janhavitak18/LeetCode/tree/master/1160-letter-tile-possibilities) |
