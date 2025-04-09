@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/janhavitak18/LeetCode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/janhavitak18/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/janhavitak18/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/janhavitak18/LeetCode/tree/master/0070-climbing-stairs) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/janhavitak18/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/janhavitak18/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/janhavitak18/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/janhavitak18/LeetCode/tree/master/0212-word-search-ii) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/janhavitak18/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/janhavitak18/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/janhavitak18/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/janhavitak18/LeetCode/tree/master/0078-subsets) |
