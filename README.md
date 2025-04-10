@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/janhavitak18/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/janhavitak18/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/janhavitak18/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/janhavitak18/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/janhavitak18/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/janhavitak18/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/janhavitak18/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/janhavitak18/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/janhavitak18/LeetCode/tree/master/3447-clear-digits) |
 ## Counting
 |  |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/janhavitak18/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janhavitak18/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/janhavitak18/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/janhavitak18/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Memoization
 |  |
 | ------- |
