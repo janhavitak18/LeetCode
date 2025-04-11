@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/janhavitak18/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/janhavitak18/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/janhavitak18/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/janhavitak18/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/janhavitak18/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/janhavitak18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/janhavitak18/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/janhavitak18/LeetCode/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/janhavitak18/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/janhavitak18/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/janhavitak18/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/janhavitak18/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/janhavitak18/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/janhavitak18/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/janhavitak18/LeetCode/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/janhavitak18/LeetCode/tree/master/0242-valid-anagram) |
 | [0800-letter-case-permutation](https://github.com/janhavitak18/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/janhavitak18/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/janhavitak18/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
