@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/janhavitak18/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/janhavitak18/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/janhavitak18/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/janhavitak18/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/janhavitak18/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/janhavitak18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1160-letter-tile-possibilities](https://github.com/janhavitak18/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/janhavitak18/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/janhavitak18/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/janhavitak18/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0205-isomorphic-strings](https://github.com/janhavitak18/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/janhavitak18/LeetCode/tree/master/0212-word-search-ii) |
 | [0800-letter-case-permutation](https://github.com/janhavitak18/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/janhavitak18/LeetCode/tree/master/1160-letter-tile-possibilities) |
