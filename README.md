@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/janhavitak18/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/janhavitak18/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/janhavitak18/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/janhavitak18/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/janhavitak18/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/janhavitak18/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/janhavitak18/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/janhavitak18/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2047-find-a-peak-element-ii](https://github.com/janhavitak18/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/janhavitak18/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/janhavitak18/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/janhavitak18/LeetCode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/janhavitak18/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2280-count-good-triplets-in-an-array](https://github.com/janhavitak18/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/janhavitak18/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/janhavitak18/LeetCode/tree/master/0148-sort-list) |
+| [2280-count-good-triplets-in-an-array](https://github.com/janhavitak18/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -389,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/janhavitak18/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/janhavitak18/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Simulation
 |  |
@@ -477,4 +482,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janhavitak18/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/janhavitak18/LeetCode/tree/master/2998-count-symmetric-integers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/janhavitak18/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/janhavitak18/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
