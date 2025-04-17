@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/janhavitak18/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/janhavitak18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/janhavitak18/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/janhavitak18/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/janhavitak18/LeetCode/tree/master/0051-n-queens) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/janhavitak18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/janhavitak18/LeetCode/tree/master/0055-jump-game) |
 | [1612-avoid-flood-in-the-city](https://github.com/janhavitak18/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/janhavitak18/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/janhavitak18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/janhavitak18/LeetCode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/janhavitak18/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/janhavitak18/LeetCode/tree/master/0142-linked-list-cycle-ii) |
