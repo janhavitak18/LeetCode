@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/janhavitak18/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/janhavitak18/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/janhavitak18/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/janhavitak18/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/janhavitak18/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/janhavitak18/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/janhavitak18/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/janhavitak18/LeetCode/tree/master/0055-jump-game) |
 | [1612-avoid-flood-in-the-city](https://github.com/janhavitak18/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/janhavitak18/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/janhavitak18/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/janhavitak18/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/janhavitak18/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/janhavitak18/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/janhavitak18/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/janhavitak18/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Linked List
 |  |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/janhavitak18/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/janhavitak18/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/janhavitak18/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/janhavitak18/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/janhavitak18/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/janhavitak18/LeetCode/tree/master/3447-clear-digits) |
 ## Counting
