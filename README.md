@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/janhavitak18/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/janhavitak18/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/janhavitak18/LeetCode/tree/master/3447-clear-digits) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/janhavitak18/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Counting
 |  |
 | ------- |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/janhavitak18/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/janhavitak18/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3639-zero-array-transformation-i](https://github.com/janhavitak18/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/janhavitak18/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Queue
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janhavitak18/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/janhavitak18/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/janhavitak18/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -516,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/janhavitak18/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/janhavitak18/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
