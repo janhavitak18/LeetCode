@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/janhavitak18/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/janhavitak18/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/janhavitak18/LeetCode/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/janhavitak18/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/janhavitak18/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0854-making-a-large-island](https://github.com/janhavitak18/LeetCode/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/janhavitak18/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/janhavitak18/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/janhavitak18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/janhavitak18/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/janhavitak18/LeetCode/tree/master/0739-daily-temperatures) |
 | [1072-next-greater-node-in-linked-list](https://github.com/janhavitak18/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/janhavitak18/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/janhavitak18/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/janhavitak18/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/janhavitak18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/janhavitak18/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/janhavitak18/LeetCode/tree/master/0739-daily-temperatures) |
 | [1072-next-greater-node-in-linked-list](https://github.com/janhavitak18/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Depth-First Search
 |  |
