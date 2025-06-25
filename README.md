@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/janhavitak18/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/janhavitak18/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/janhavitak18/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0486-predict-the-winner](https://github.com/janhavitak18/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/janhavitak18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/janhavitak18/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/janhavitak18/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/janhavitak18/LeetCode/tree/master/0221-maximal-square) |
 | [0368-largest-divisible-subset](https://github.com/janhavitak18/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/janhavitak18/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/janhavitak18/LeetCode/tree/master/0486-predict-the-winner) |
 | [0747-min-cost-climbing-stairs](https://github.com/janhavitak18/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/janhavitak18/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/janhavitak18/LeetCode/tree/master/1013-fibonacci-number) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/janhavitak18/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/janhavitak18/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/janhavitak18/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/janhavitak18/LeetCode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/janhavitak18/LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/janhavitak18/LeetCode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/janhavitak18/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/janhavitak18/LeetCode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/janhavitak18/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/janhavitak18/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/janhavitak18/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -530,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/janhavitak18/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/janhavitak18/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
