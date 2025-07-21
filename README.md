@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/janhavitak18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/janhavitak18/LeetCode/tree/master/0055-jump-game) |
+| [0680-valid-palindrome-ii](https://github.com/janhavitak18/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/janhavitak18/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/janhavitak18/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/janhavitak18/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/janhavitak18/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/janhavitak18/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/janhavitak18/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0680-valid-palindrome-ii](https://github.com/janhavitak18/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/janhavitak18/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/janhavitak18/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/janhavitak18/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/janhavitak18/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/janhavitak18/LeetCode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/janhavitak18/LeetCode/tree/master/0242-valid-anagram) |
+| [0680-valid-palindrome-ii](https://github.com/janhavitak18/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0800-letter-case-permutation](https://github.com/janhavitak18/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/janhavitak18/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/janhavitak18/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
